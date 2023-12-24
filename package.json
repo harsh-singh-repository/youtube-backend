@@ -1,0 +1,14 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "Full Fleged youtube backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "script"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Harsh Singh",
+  "license": "MIT"
+}
