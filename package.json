@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Full Fleged youtube backend",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "script"
   },
@@ -10,5 +11,8 @@
     "javascript"
   ],
   "author": "Harsh Singh",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
 }
